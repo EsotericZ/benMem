@@ -14,6 +14,7 @@ export const Donate = () => {
                     <a 
                         href='https://www.oxfordhouseky.org/'
                         target='_blank'
+                        rel="noopener noreferrer"
                         className='d-flex justify-content-center'
                     >
                         <img
@@ -28,6 +29,7 @@ export const Donate = () => {
                 <a 
                     href='https://www.paypal.com/donate?token=iKDoEbAAp7M5HJaRx41jim4eCzJyMW7Eztpnk5ikcdQMKaXPF08kj5eDizGzJ58YQsZsKlf4LH18ntag'
                     target='_blank'
+                    rel="noopener noreferrer"
                 >
                     Donate
                 </a>
