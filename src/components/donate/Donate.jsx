@@ -27,7 +27,7 @@ export const Donate = () => {
             </div>
             <div className="d-flex justify-content-center mt-2">
                 <a 
-                    href='https://www.paypal.com/donate?token=iKDoEbAAp7M5HJaRx41jim4eCzJyMW7Eztpnk5ikcdQMKaXPF08kj5eDizGzJ58YQsZsKlf4LH18ntag'
+                    href='https://www.oxfordhouseky.org/'
                     target='_blank'
                     rel="noopener noreferrer"
                 >
